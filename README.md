@@ -1,2 +1,2 @@
 # Codes
-This is a repository of the codes which I have solved
+This is a repository of the codes both Java and Python
