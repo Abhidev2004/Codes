@@ -1,0 +1,1 @@
+This folder consists of all the String problems in leet code
