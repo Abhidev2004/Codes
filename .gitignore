@@ -1,0 +1,7 @@
+# Ignore Eclipse/IDE metadata
+.metadata/
+.settings/
+
+# Ignore compiled Java classes and logs
+*.class
+*.log
