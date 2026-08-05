@@ -59,6 +59,9 @@
 # invocations[i] != invocations[j]
 
 
+from typing import List
+
+
 class Remove_methods_from_project:
     def remainingMethods(self, n: int, k: int,
                          invocations: List[List[int]]) -> List[int]:

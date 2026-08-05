@@ -45,6 +45,9 @@
 # 2 <= nums.length <= 100
 # 1 <= nums[i] <= 100
 
+from typing import List
+
+
 class Find_Missing_Elements:
     def findMissingElements(self, nums: List[int]) -> List[int]:
         nums.sort()
