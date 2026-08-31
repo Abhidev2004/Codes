@@ -44,7 +44,7 @@
 
 import java.util.*;
 
-class Solution {
+class Roman_to_Integer_HashMap {
     public int romanToInt(String s) {
         Map<Character, Integer> rn = new HashMap<>();
         rn.put('I', 1);
