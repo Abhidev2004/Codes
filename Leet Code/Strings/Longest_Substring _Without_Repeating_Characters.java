@@ -27,6 +27,9 @@
 // 0 <= s.length <= 105
 // s consists of English letters, digits, symbols and spaces.
 
+import java.util.HashSet;
+import java.util.Set;
+
 class Longest_Substring_Without_Repeating_Characters {
     public int lengthOfLongestSubstring(String s) {
         Set<Character> window = new HashSet<>();
